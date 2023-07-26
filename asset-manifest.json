@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/E-learning/static/css/main.330e889e.css",
-    "main.js": "/E-learning/static/js/main.fe0e54ac.js",
+    "main.js": "/E-learning/static/js/main.41f99750.js",
     "static/media/python_3.jpg": "/E-learning/static/media/python_3.ef2dcf3908a3660f5514.jpg",
     "static/media/python_5.jpg": "/E-learning/static/media/python_5.4e4c6f79ec81f01b5daf.jpg",
     "static/media/cat_data_science.png": "/E-learning/static/media/cat_data_science.4343ab2a901b51933dfd.png",
@@ -24,10 +24,10 @@
     "static/media/logo_udemy.svg": "/E-learning/static/media/logo_udemy.ac64b9eb547dc3795f53173b290203d9.svg",
     "index.html": "/E-learning/index.html",
     "main.330e889e.css.map": "/E-learning/static/css/main.330e889e.css.map",
-    "main.fe0e54ac.js.map": "/E-learning/static/js/main.fe0e54ac.js.map"
+    "main.41f99750.js.map": "/E-learning/static/js/main.41f99750.js.map"
   },
   "entrypoints": [
     "static/css/main.330e889e.css",
-    "static/js/main.fe0e54ac.js"
+    "static/js/main.41f99750.js"
   ]
 }
