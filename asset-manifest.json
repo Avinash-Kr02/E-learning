@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/E-learning/static/css/main.330e889e.css",
+    "main.js": "/E-learning/static/js/main.fe0e54ac.js",
+    "static/media/python_3.jpg": "/E-learning/static/media/python_3.ef2dcf3908a3660f5514.jpg",
+    "static/media/python_5.jpg": "/E-learning/static/media/python_5.4e4c6f79ec81f01b5daf.jpg",
+    "static/media/cat_data_science.png": "/E-learning/static/media/cat_data_science.4343ab2a901b51933dfd.png",
+    "static/media/hero_img.png": "/E-learning/static/media/hero_img.1c6945a5f1ceb4449a7b.png",
+    "static/media/cat_marketing.png": "/E-learning/static/media/cat_marketing.82b40607eb5d70e826f4.png",
+    "static/media/cat_python.png": "/E-learning/static/media/cat_python.6a5cbc319ab3ddf8ef92.png",
+    "static/media/python_4.jpg": "/E-learning/static/media/python_4.95d33a4ff701d4721b37.jpg",
+    "static/media/cat_aws.png": "/E-learning/static/media/cat_aws.15d6ff76175e4edb5cd4.png",
+    "static/media/cat_design.png": "/E-learning/static/media/cat_design.f721d6300da36dde4a81.png",
+    "static/media/cat_web_development.png": "/E-learning/static/media/cat_web_development.f9d169e80e84e333a6d1.png",
+    "static/media/data_science_3.jpg": "/E-learning/static/media/data_science_3.1bac98024088a70b1566.jpg",
+    "static/media/data_science_2.jpg": "/E-learning/static/media/data_science_2.f18e85757ac439519dc1.jpg",
+    "static/media/marketing_2.jpg": "/E-learning/static/media/marketing_2.a1cb6c4ff0a8342fccad.jpg",
+    "static/media/web_dev_4.jpg": "/E-learning/static/media/web_dev_4.bfa0b0932cfe1b731aea.jpg",
+    "static/media/web_dev_5.jpg": "/E-learning/static/media/web_dev_5.3213b957fbc815c6cb9f.jpg",
+    "static/media/aws_1.jpg": "/E-learning/static/media/aws_1.5aa3a01928d4c648c1e9.jpg",
+    "static/media/web_dev_3.jpg": "/E-learning/static/media/web_dev_3.95934fdd8b540d859cc4.jpg",
+    "static/media/marketing_1.jpg": "/E-learning/static/media/marketing_1.5d856438f47223a9b30d.jpg",
+    "static/media/python_2.jpg": "/E-learning/static/media/python_2.6cb0263b9cb418cdf202.jpg",
+    "static/media/logo_udemy.svg": "/E-learning/static/media/logo_udemy.ac64b9eb547dc3795f53173b290203d9.svg",
+    "index.html": "/E-learning/index.html",
+    "main.330e889e.css.map": "/E-learning/static/css/main.330e889e.css.map",
+    "main.fe0e54ac.js.map": "/E-learning/static/js/main.fe0e54ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.330e889e.css",
+    "static/js/main.fe0e54ac.js"
+  ]
+}
