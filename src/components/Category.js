@@ -4,7 +4,7 @@ import {Link} from "react-router-dom";
 
 const Category = ({image, category}) => {
   return (
-    <Link to = {`/category/₹{category}`}>
+    <Link to = {`/category/${category}`}>
       <CategoryItemWrapper className='flex flex-column bg-alice-blue'>
         <div className='category-item-img'>
           <img src = {image} alt = {category} />
